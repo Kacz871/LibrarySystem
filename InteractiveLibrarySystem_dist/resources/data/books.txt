@@ -1,0 +1,6 @@
+15::Pride and Prejudice::Jane Austen::Garden City::1813::Available::false::
+23::Nineteen Eighty-Four::George Orwell::Penguin::1949::Available::false::
+42::The Hitchhiker's Guide to the Galaxy::Douglas Adams::Pan Books::1979::Available::false::
+43::The War of The Worlds::H.G. Wells::William Heinemann::1898::Available::false::
+44::new book::kostas::Penguin::2019::Available::false::
+45::The Adventures of Sherlock Holmes::Arthur Conan Doyle::The Strand Magazine::1892::Available::false::
